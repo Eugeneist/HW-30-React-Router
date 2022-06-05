@@ -5,7 +5,7 @@ const Apartments = () => {
 
   return (
     <>
-      <h2>Our Apartments</h2>
+      <h2>Apartments page</h2>
       {params.apartmentsId}
     </>
   );
